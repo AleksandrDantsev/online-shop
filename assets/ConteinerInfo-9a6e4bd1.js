@@ -1,1 +1,0 @@
-import{j as n}from"./index-3cff6f65.js";const s="_conteinerInfo_k3bsd_1",e={conteinerInfo:s},r=({children:o})=>n.jsx("div",{className:e.conteinerInfo,children:n.jsx("div",{className:e.wrapper,children:o})});export{r as default};
